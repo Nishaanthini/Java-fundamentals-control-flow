@@ -1,5 +1,5 @@
 import java.util.*;
-public class Cnditional_statement
+public class Conditional_statement
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
